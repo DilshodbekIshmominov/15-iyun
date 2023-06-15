@@ -1,0 +1,253 @@
+body{
+    background-color: #00302E;
+    height: 100vh;
+}
+.main{
+    position: absolute;
+    width: 92px;
+    height: 46px;
+    left: 178px;
+    margin-top: 30px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    color: #FFFFFF;
+    }
+
+ header nav img { 
+    position: absolute;
+    left: 6.81%;
+    right: 89.2%;
+    top: 2.36%;
+    bottom: 94.96%;
+    background: #00EDDF;
+ }  
+ header nav ul{
+   list-style: none; 
+   float: right;
+   display: flex;
+   margin-top: -20px;
+
+ } 
+ ul li{
+    display: flex;
+ }
+ul li a{
+    text-decoration: none;
+    color: antiquewhite;
+    padding: 50px;
+    
+}
+h5{
+    position: absolute;
+    width: 650px;
+    height: 167px;
+    margin-left: 98px;
+    margin-top: 361px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 77px;
+    color: #FFFFFF;
+}
+header p{
+    position: absolute;
+    width: 609px;
+    height: 77px;
+    margin-left: 98px;
+    margin-top: 549px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    color: rgba(255, 255, 255, 0.74);
+}
+.bir{
+    display: flex;
+}
+.imges{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin-left: 904px;
+    margin-top: 287px;
+    background: url(bon-vivant-qom5MPOER-I-unsplash.jpg);
+}
+h3{
+    position: absolute;
+    width: 463px;
+    height: 33px;
+    margin-left: 489px;
+    margin-top: 867px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 33px;
+    color: rgba(255, 255, 255, 0.87);
+}
+p{
+    position: absolute;
+    width: 609px;
+    height: 77px;
+    margin-left: 423px;
+    margin-top: 935px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.83);
+
+}
+#img2{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    margin-left: 131px;
+    margin-top: 1108px;
+    background: url(olayinka-babalola-r01ZopTiEV8-unsplash.jpg);
+    border-radius: 400px;
+}
+#img3{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    margin-left: 612px;
+    margin-top: 1108px;
+    background: url(emiliano-vittoriosi-OFismyezPnY-unsplash.jpg);
+    border-radius: 400px;
+}
+#img4{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    margin-left: 612px;
+    margin-top: 1108px;
+    background: url(emiliano-vittoriosi-OFismyezPnY-unsplash.jpg);
+    border-radius: 400px;
+}
+.imges2{
+    display: flex;
+    margin-left: 131px;
+    margin-top: 1108px;
+}
+.katta{
+    position: absolute;
+    width: 177px;
+    height: 33px;
+    margin-left: 186px;
+    margin-top: 1393px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 33px;
+    text-align: center;
+    color: #FBDDBB;
+}
+.kichik{
+    position: absolute;
+    width: 288px;
+    height: 66px;
+    margin-left: 593px;
+    margin-top: 1440px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.83);
+}
+.katta2{
+    position: absolute;
+    width: 144px;
+    height: 33px;
+    margin-left: 663px;
+    margin-top: 1393px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 33px;
+    text-align: center;
+    color: #FBDDBB;
+}
+.kishik2{
+    position: absolute;
+    width: 288px;
+    height: 66px;
+    margin-left: 593px;
+    margin-top: 1440px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.83);
+}
+.katta3{
+    position: absolute;
+    width: 168px;
+    height: 33px;
+    margin-left: 1133px;
+    margin-top: 1393px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 33px;
+    text-align: center;
+    color: #FBDDBB;
+}
+.kichik3{
+    position: absolute;
+    width: 288px;
+    height: 66px;
+    margin-left: 1075px;
+    margin-top: 1440px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.83);
+}
+.get_notifiad{
+    position: absolute;
+    width: 549px;
+    height: 33px;
+    left: 128px;
+    top: 1775px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 33px;
+    color: #FBDDBB;
+}
+.promos{
+    position: absolute;
+width: 531px;
+height: 66px;
+left: 135px;
+top: 1840px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 33px;
+color: rgba(255, 255, 255, 0.95);
+
+}
+.get{
+    background-color: burlywood;
+}
